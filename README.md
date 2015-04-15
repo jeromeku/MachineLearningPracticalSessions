@@ -4,11 +4,13 @@ This repository gather almost all Machine Learning practical sessions I attended
 
 For most of theses sessions, the point was to implement Machine Learning algorithms to get a sense of how they work.
 
+Also, having been written in French schools, most of the comments are in French, although I sometimes wrote them in English. Sorry for non-French speakers. However, code and charts should be understandable.
+
 ## Organization
 
-Each practical sessions consist of a folder containing the sources (that you should be able to run) and a report of the results as a PDF file.
+Each practical session consist of a folder containing the sources (that you should be able to run) and a report of the results as a PDF file.
 
-Each sessions is numbered `x.y`, where `x` correspond to the number of the course, and `y` correspond to the number of the pratical session of the course. I numbered the courses approximately chronologically.
+Each session is numbered `x.y`, where `x` correspond to the number of the course, and `y` correspond to the number of the practical session of the course. I numbered the courses approximately chronologically.
 
 ## About the code
 
@@ -31,5 +33,3 @@ For Matlab, the following libraries might be needed:
 For Python you will need the `scipy` environment, `pickle`, `pykalman` and `yahmm`.
 
 The code is available as a Python file or a IPython Notebook.
-
-
