@@ -1,3 +1,6 @@
 [submodule "8.1 - Reccurent Neural Networks & LSTM bibliography"]
 	path = 8.1 - Reccurent Neural Networks & LSTM bibliography
 	url = https://github.com/ThomasRobertFr/rnn-biblio
+[submodule "6.7 - Rupture detection in video (project)"]
+	path = 6.7 - Rupture detection in video (project)
+	url = https://github.com/ThomasRobertFr/video-rupture-detection
